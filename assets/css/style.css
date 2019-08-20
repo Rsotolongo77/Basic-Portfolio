@@ -1,0 +1,59 @@
+body {
+      margin: 0;
+      background-image: url(../images/papyrus.png);
+}
+header {
+    width: 960px;
+    height: 70px;
+    margin: 30px auto;
+    background-color: white;
+    
+}
+
+.headerContainer {
+    width: 960px;
+    margin: 0 auto;
+}
+
+h1 {
+    background-color: blue;
+    height: 70px;
+    float: left;
+    padding: 20px 10px;
+    margin: 0;
+    color: white;
+}
+
+nav {
+    float: right;
+    padding: 20px 0 0 0;
+}
+
+a {
+    text-decoration: none;
+    color: lightgrey;
+    font-size: 18px;
+    padding: 0 10px 0 0;
+}
+
+section {
+    width: 960px;
+    margin: 30px auto;
+    background-color: white;
+    padding: 20px;
+    overflow: auto;
+}
+
+img {
+    float:left;
+    margin: 0 15px 15px 0;
+}
+
+footer {
+    width: 100%;
+    background-color: white;
+    height: 70px;
+    text-align: center;
+    border-top: solid darkgray 1px;
+    padding-top: 10px;
+} 
