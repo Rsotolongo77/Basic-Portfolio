@@ -127,12 +127,63 @@ textarea {
 figure {
     background-color: lightseagreen;
     width: 250px;
-    height: 30px;
+    height: 40px;
     color: white;
     text-align: center;
+    font-size: large;
 
 }
 
 .parentBoxset {
     position: relative;
+}
+
+.box-1 {
+    position: absolute;
+    top: 200px;
+    bottom: 0;
+    right: 0;
+    left: 15px;
+    margin: 0;
+    padding: 15px 0 0 0;
+}
+
+.box-2 {
+    position: absolute;
+    top: 200px;
+    bottom: 0;
+    right: 0;
+    left: 295px;
+    margin: 0;
+    padding: 15px 0 0 0;
+}
+
+.box-3 {
+    position: absolute;
+    top: 200px;
+    bottom: 0;
+    right: 0;
+    left: 575px;
+    margin: 0;
+    padding: 15px 0 0 0;
+}
+
+.box-4 {
+    position: absolute;
+    top: 490px;
+    bottom: 0;
+    right: 0;
+    left: 15px;
+    margin: 0;
+    padding: 15px 0 0 0;
+}
+
+.box-5 {
+    position: absolute;
+    top: 490px;
+    bottom: 0;
+    right: 0;
+    left: 295px;
+    margin: 0;
+    padding: 15px 0 0 0;
 }
