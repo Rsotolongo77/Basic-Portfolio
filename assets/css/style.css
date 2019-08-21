@@ -118,3 +118,7 @@ input[type="submit" i] {
     font-size: large;
 
 }
+
+textarea {
+    border-color: lightgray;
+}
