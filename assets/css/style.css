@@ -86,3 +86,35 @@ p {
     line-height: 1.5;
 
 }
+
+.contactArea {
+    background-color: white;
+    width: 920px;
+    margin: 55px auto 200px;
+    padding: 20px;
+    font-size: 20px;
+    
+
+}
+
+form {
+    height: 400px;
+    font-size: 17px;
+    color: darkgray;
+}
+
+input  {
+    width: 100%;
+    height: 20px;
+    
+}
+
+input[type="submit" i] {
+    text-align: center;
+    color: white;
+    background: lightseagreen;
+    height: 40px;
+    width: 100px;
+    font-size: large;
+
+}
