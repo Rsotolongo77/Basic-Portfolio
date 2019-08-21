@@ -1,12 +1,13 @@
 body {
       margin: 0;
-      background-image: url(../images/papyrus.png);
+      background-image: url(../images/gravel.png);
 }
 header {
     width: 100%;
     height: 100px;
     margin: 0 auto;
     background-color: white;
+    border-bottom: 2px solid lightgray;
     
 }
 
@@ -44,11 +45,13 @@ section {
     background-color: white;
     padding: 20px;
     overflow: auto;
+    border: 2px solid lightgrey;
+    
 }
 
 img {
     float:left;
-    margin: 0 15px 15px 0;
+    margin: 20px 15px;
 }
 
 footer {
@@ -58,6 +61,8 @@ footer {
     text-align: center;
     border-top: solid darkgray 1px;
     padding-top: 10px;
+    border-top: 10px solid lightseagreen;
+    color: white;
     
 } 
 
@@ -67,4 +72,16 @@ h2 {
     border: 0;
     padding: 0;
     margin: 0;
+}
+
+hr {
+    height: 2px;
+    background-color: lightgrey;
+    border: none;
+    color: lightgray;
+}
+
+p {
+    line-height: 1.5;
+
 }
