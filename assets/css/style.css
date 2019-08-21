@@ -122,3 +122,17 @@ input[type="submit" i] {
 textarea {
     border-color: lightgray;
 }
+
+
+figure {
+    background-color: lightseagreen;
+    width: 250px;
+    height: 30px;
+    color: white;
+    text-align: center;
+
+}
+
+.parentBoxset {
+    position: relative;
+}
