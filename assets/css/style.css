@@ -65,6 +65,7 @@ footer {
     color: white;
     
     
+    
 } 
 
 h2 {
@@ -187,3 +188,36 @@ figure {
     margin: 0;
     padding: 15px 0 0 0;
 }
+
+
+@media (max-width: 1025px) {
+
+    footer {
+
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+
+    header {
+
+        position: fixed;
+        top: 0; 
+        width: 100%;
+        
+
+    }
+
+    section {
+
+        margin: 75px auto;
+    }
+}
+
+
+
+
+
+        
+        
+    
