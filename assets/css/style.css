@@ -212,6 +212,20 @@ figure {
 
         margin: 75px auto;
     }
+
+    p   {
+
+        font-size: larger;
+    }
+
+
+}
+
+@media (max-width: 415px)  {
+
+    p  {
+        font-size: 3rem;
+    }
 }
 
 
