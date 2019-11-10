@@ -8,7 +8,6 @@ header {
     margin: 0 auto;
     background-color: white;
     border-bottom: 2px solid lightgray;
-    
 }
 
 .headerContainer {
@@ -94,8 +93,6 @@ p {
     margin: 55px auto 200px;
     padding: 20px;
     font-size: 20px;
-    
-
 }
 
 form {
@@ -117,7 +114,6 @@ input[type="submit" i] {
     height: 40px;
     width: 100px;
     font-size: large;
-
 }
 
 textarea {
@@ -132,7 +128,6 @@ figure {
     color: white;
     text-align: center;
     font-size: large;
-
 }
 
 .parentBoxset {
